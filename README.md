@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hey, This is a personal portfolio website. If you want to edit this. Clone this project and edit the files in /src/components.
 
 To run this on localhost type npm start and when u are done coding type npm run build to build your app.
