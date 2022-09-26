@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hey, This is a personal portfolio website. If you want to edit this. Clone this project and edit the files in /src/components.
 
 To run this on localhost type npm start and when u are done coding type npm run build to build your app.
@@ -51,3 +52,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+=======
+
+>>>>>>> 1b16a20b5dc366b834424526c76a5d1ffbded2a3
