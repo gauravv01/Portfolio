@@ -6,6 +6,9 @@ NOTE: if you have yarn just replace npm start and npm run build with yarn start 
 
 <a href="https://www.buymeacoffee.com/vivek9patel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
 
+## Demo Link: https://rajatsoni.netlify.app/
+Portfolio Preview:-
+
 ## Sections 📚
 ✔️ About me\
 ✔️ Experience\
