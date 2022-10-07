@@ -5,7 +5,7 @@ To run this on localhost type npm start and when u are done coding type npm run 
 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" >
 
-## Demo Link: https://rajatsoni.netlify.app/
+## Demo Link: https://gaurav-verma.vercel.app/
 Portfolio Preview:-
 
 ![Landing-page](https://user-images.githubusercontent.com/63253201/194537846-6c4054e5-2332-4e97-9d87-085eeb1db865.png)
