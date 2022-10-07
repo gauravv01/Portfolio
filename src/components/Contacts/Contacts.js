@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext} from 'react';
 import { Snackbar, IconButton, SnackbarContent } from '@material-ui/core';
 import CloseIcon from '@material-ui/icons/Close';
 // import axios from 'axios';
@@ -11,10 +11,9 @@ import {
     FaYoutube,
     FaFacebook,
     FaInstagram,
-    FaGitlab,
     FaMediumM,
 } from 'react-icons/fa';
-import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
+import { AiOutlineSend} from 'react-icons/ai';
 import { FiPhone, FiAtSign } from 'react-icons/fi';
 import { HiOutlineLocationMarker } from 'react-icons/hi';
 import { ThemeContext } from '../../contexts/ThemeContext';
@@ -24,18 +23,6 @@ import './Contacts.css';
 import { useForm, ValidationError } from '@formspree/react';
 
 function Contacts() {
-    const [open, setOpen] = useState(false);
-
-    const [name, setName] = useState('');
-    const [email, setEmail] = useState('');
-    const [message, setMessage] = useState('');
-
-    const [success, setSuccess] = useState(false);
-    const [errMsg, setErrMsg] = useState('');
-
-
-
-
     const { theme } = useContext(ThemeContext);
 
     const useStyles = makeStyles((t) => ({

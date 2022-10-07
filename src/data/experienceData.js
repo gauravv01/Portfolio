@@ -1,16 +1,16 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Ecomoceana Tech. Pvt Ltd., Mohali(Punjab)',
-        jobtitle: 'I was a Sales Consultant and responsibilities started with first call and endup after the product sale. All the steps were completed professionaly with complete transprency and in a legal way.  ',
-        startYear: 'Nov - 2020',
-        endYear: 'Nov - 2021'
+        company: 'Wheelseye Technology India Pvt Ltd.',
+        jobtitle: 'As a Growth Manager  Daily meetings and get proper inputs and scaling up of strategies to increase productivity and deciding timeline for various activities and tasks involved.',
+        startYear: 'Dec - 2018',
+        endYear: 'May - 2019'
     },
     {
         id: 2,
-        company: 'Eclerx Pvt Ltd., Chandigarh',
-        jobtitle: 'I Handled incoming interactions from international clients regarding products and service concern. Provide Information about other product and maximize the revenue with selling.',
-        startYear: 'Nov - 2020',
-        endYear: 'Nov - 2021'
+        company: 'Fleetx Technology Pvt Ltd, Gurgaon',
+        jobtitle: 'As a Growth Manager -Responsible for identifying company’s growth opportunities and managing the team’s effort to fill in the opportunity gaps',
+        startYear: 'Jan - 2020',
+        endYear: 'Dec - 2021'
     },
 ]

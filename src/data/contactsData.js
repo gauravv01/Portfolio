@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'Rajatsoni.rs66@gmail.com',
-    phone: '+91-97858-64762',
-    address: 'Hanumangarh, Rajasthan ',
+    email: 'vermagauravverma841@gmail.com',
+    phone: '+91-9592394529',
+    address: 'Firozpur , Punjab ',
 
     sheetAPI: ''
 }
