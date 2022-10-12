@@ -12,7 +12,15 @@ export const projectsData = [
         image: Meals
     },
     {
-        id: 5,
+        id: 2,
+        projectName: 'Netflix-Clone',
+        projectDesc: 'A Simple page application -Complete resemblence of Netflix App',
+        tags: ['HTML&CSS','JS','React','Firebase'],
+        demo: 'https://netflix-clone-2ce0e.web.app/',
+        image: 'https://user-images.githubusercontent.com/63253201/195379785-11156141-8a98-413e-84ff-edd8a1ab5216.png'
+    },
+    {
+        id: 3,
         projectName: 'Hangman',
         projectDesc: 'A Simple game application where you have to solve a quiz before you get hanged',
         tags: ['HTML','CSS','JS'],
