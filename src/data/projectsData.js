@@ -4,12 +4,12 @@ import Meals from '../assets/png/Meals-Order.png'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Meals-Ordering App',
-        projectDesc: 'A web application where you will be able to select your desired meals and add to your cart and then can order it successfully',
-        tags: ['HTML', 'CSS','Javascript','React','Redux','Firebase'],
-        code: 'https://github.com/gauravv01/Meals-Ordering-App',
-        demo: 'https://celadon-tarsier-d906f6.netlify.app/',
-        image: Meals
+        projectName: 'Contruction-Company',
+        projectDesc: 'A Construction company project where we handle all tenders',
+        tags: ['HTML','CSS','JS','React','Redux','Redux-Thunk','Firebase'],
+        code: 'https://github.com/gauravv01/Bhumio-project.git',
+        demo: 'https://bhumioproject.vercel.app/',
+        image: 'https://user-images.githubusercontent.com/63253201/197115060-2e3f3814-da25-4cdf-9ca2-be0e23f0c720.png'
     },
     {
         id: 2,
@@ -27,6 +27,16 @@ export const projectsData = [
         demo: 'https://ephemeral-paprenjak-1e988a.netlify.app/',
         image: 'https://user-images.githubusercontent.com/63253201/189531396-bf49d6fe-f492-4490-b569-ce205142ac93.png'
     },
+    {
+        id: 4,
+        projectName: 'Meals-Ordering App',
+        projectDesc: 'A web application where you will be able to select your desired meals and add to your cart and then can order it successfully',
+        tags: ['HTML', 'CSS','Javascript','React','Redux','Firebase'],
+        code: 'https://github.com/gauravv01/Meals-Ordering-App',
+        demo: 'https://celadon-tarsier-d906f6.netlify.app/',
+        image: Meals
+    }
+    
    
 ]
 
