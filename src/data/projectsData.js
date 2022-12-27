@@ -9,7 +9,7 @@ export const projectsData = [
         tags: ['HTML','CSS','JS','React','Redux','Redux-Thunk','Firebase'],
         code: 'https://github.com/gauravv01/f1Studioz',
         demo: 'https://f1-studioz.vercel.app/',
-        image: 'https://user-images.githubusercontent.com/63253201/197115060-2e3f3814-da25-4cdf-9ca2-be0e23f0c720.png'
+        image: ''
     },
     {
         id: 2,
@@ -21,11 +21,12 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Hangman',
-        projectDesc: 'A Simple game application where you have to solve a quiz before you get hanged',
-        tags: ['HTML','CSS','JS'],
-        demo: 'https://ephemeral-paprenjak-1e988a.netlify.app/',
-        image: 'https://user-images.githubusercontent.com/63253201/189531396-bf49d6fe-f492-4490-b569-ce205142ac93.png'
+        projectName: 'RICK_and_MORTY',
+        projectDesc: 'A Web app that allows you to search and look up characters from the Rick and Morty series.',
+        tags: ['HTML','CSS','JS','React'],
+        code:'https://github.com/gauravv01/Refrens_assignment',
+        demo: 'https://refrens-assignment.vercel.app/',
+        image: ''
     },
     {
         id: 4,
