@@ -4,11 +4,11 @@ import Meals from '../assets/png/Meals-Order.png'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Contruction-Company',
-        projectDesc: 'A Construction company project where we handle all tenders',
+        projectName: 'F1-studioz',
+        projectDesc: 'A  company project where we handle all tenders',
         tags: ['HTML','CSS','JS','React','Redux','Redux-Thunk','Firebase'],
-        code: 'https://github.com/gauravv01/Bhumio-project.git',
-        demo: 'https://bhumioproject.vercel.app/',
+        code: 'https://github.com/gauravv01/f1Studioz',
+        demo: 'https://f1-studioz.vercel.app/',
         image: 'https://user-images.githubusercontent.com/63253201/197115060-2e3f3814-da25-4cdf-9ca2-be0e23f0c720.png'
     },
     {
