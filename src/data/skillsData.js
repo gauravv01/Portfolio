@@ -20,8 +20,8 @@
         'React',
         'Redux',
         'TypeScript',
-        // 'NodeJS',
-        // 'MongoDB',
+        'NodeJS',
+        'MongoDB',
         // "Express",
         'TailWind',
         'Bootstrap',
@@ -30,7 +30,7 @@
         // "Cypress",
         "npm",
         // "PostMan",
-        // "MaterialUI",
+        "MaterialUI",
    
         "Microsoft Office",
         
